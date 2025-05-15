@@ -1,0 +1,40 @@
+echo "
+# macOS system files
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+*.log
+
+# Personal directories
+/Users/
+/Applications/
+/Library/
+/Movies/
+/Music/
+/Pictures/
+/Sites/
+/eclipse-workspace/
+/Downloads/
+
+# Node and Maven files
+node_modules/
+.m2/
+
+# Java build files
+*.class
+*.jar
+*.war
+*.ear
+
+# Test Reports
+/test-output/
+" > .gitignore
