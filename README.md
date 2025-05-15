@@ -1,4 +1,4 @@
-# OrangeHRM Selenium Automation (Basic Login Test)
+# DocsINK (Basic Registration Test)
 
 ## Overview
 This is a starter Selenium Java framework using Page Object Model (POM) for OrangeHRM demo site. It includes a basic login test and is ready for CI/CD with GitHub Actions.
